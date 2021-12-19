@@ -1,0 +1,29 @@
+PARTE 1
+1. Crear proyecto nuevo con Netbeans. Nombre proyecto "prueba-git"
+
+2. Iniciar repositorio Git en ese proyecto.
+
+3. Configurar el archivo .gitignore y realizar su primer commit
+
+4. Crear la clase Cliente
+
+5. Agregarle atributos y su constructor:
+	nombre
+	telefono
+	
+6. Realizar sus commits respectivos.
+
+7. Publicar su repositorio en GitHub
+
+8. Invitarme como colaborador.
+	alfredo-curso001
+	
+	
+	
+PARTE 2
+1. Clonar el repositorio ejemplo-vector del usuario alfreding0
+2. Crear una rama a partir del master.
+3. Agregar un formulario principal en el proyecto y hacer los commits.
+4. Publicar su rama.
+5. Unir la rama hacia master y subirlo.
+
