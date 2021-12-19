@@ -74,7 +74,7 @@ public class Formulario extends javax.swing.JFrame {
         });
 
         jLabel1.setFont(new java.awt.Font("Dialog", 0, 36)); // NOI18N
-        jLabel1.setText("VECTOR");
+        jLabel1.setText("INICANDO PRUEBA");
 
         jButton3.setText("Aleatorio");
         jButton3.addActionListener(new java.awt.event.ActionListener() {
@@ -104,7 +104,7 @@ public class Formulario extends javax.swing.JFrame {
                                     .addComponent(jButton1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
                                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                                 .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 85, javax.swing.GroupLayout.PREFERRED_SIZE)))))
-                .addContainerGap(11, Short.MAX_VALUE))
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
